@@ -1,3 +1,5 @@
+//Trying the guess the situation if it is greater, lower or equal to the number that the AI gave.
+
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
