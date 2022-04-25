@@ -1,3 +1,6 @@
+//A solution for train employees to give the answer of the seat situation.
+//The passenger tells the seat number, this project answers the vagon-no, seat-no-in-vagon, window-ledge or coridor-ledge and double seater or single seater.
+
 #include <stdio.h>
 #include <stdlib.h>
 
